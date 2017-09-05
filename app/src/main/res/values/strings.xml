@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">图片选择</string>
+    <string name="add">添加</string>
+    <string name="check">选择</string>
+    <string name="uncheck">取消选择</string>
+    <string name="preview">预览</string>
+    <string name="check_dir">选择目录</string>
+    <string name="not_have_img_dir">没有存在图片的目录</string>
+    <string name="dir_not_have_img_">本目录下没有图片</string>
+    <string name="check_length">已经选择%1$d张图片</string>
+    <string name="tip_max_size">最多只能选择%1$d张图片</string>
+
+</resources>
